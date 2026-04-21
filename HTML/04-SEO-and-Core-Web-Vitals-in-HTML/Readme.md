@@ -185,6 +185,6 @@ Core Web Vitals are metrics defined by Google to measure **user experience** on 
 
 ## Final Tip
 
-A fast, well-structured HTML page = Better SEO + Better User Experience 🚀
+A fast, well-structured HTML page = Better SEO + Better User Experience 
 
 ---
