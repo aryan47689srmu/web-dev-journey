@@ -222,6 +222,3 @@ body {
 CSS Media Queries are a powerful feature used to create responsive and adaptive web designs. They allow developers to apply different styles depending on device size and characteristics, ensuring websites work properly across mobiles, tablets, laptops, and desktops.
 
 Responsive design using media queries is a fundamental skill in modern frontend development.
-
-```
-```
